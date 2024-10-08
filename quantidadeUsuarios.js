@@ -1,4 +1,3 @@
-quantidadeUsuarios.js
 import*as commonJs from"./common.js"
 async function quantidadeUsuarioPorRede(){
     const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-usuario.json'
